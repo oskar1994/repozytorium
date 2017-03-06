@@ -1,6 +1,6 @@
 raz 
 dwa
 trzy
-cztery
-piec
-szesc
+la
+la
+la
